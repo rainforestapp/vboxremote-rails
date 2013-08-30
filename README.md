@@ -1,6 +1,6 @@
-# Vboxremote::Rails
+# vboxremote-rails
 
-TODO: Write a gem description
+Assets from https://code.google.com/p/vboxremote/ for the Rails asset pipeline.
 
 ## Installation
 
@@ -12,13 +12,11 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install vboxremote-rails
-
 ## Usage
 
-TODO: Write usage instructions here
+Add the following to your application.coffee file.
+  
+    #= require rdp/swfobject
 
 ## Contributing
 
